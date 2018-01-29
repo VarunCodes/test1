@@ -5,9 +5,9 @@ ___
 
 <p align="center">
   <b>Contents:</b><br>
-  <a>[Portfolio](#portfolio)</a> |
+  <a href="#portfolio">[Portfolio]</a> |
   <a href="#education">[Experience]</a> |
-  <a>[Skills]</a>(#skills)
+  <a href="#skills">[Skills]</a>()
   <br><br>
 </p>
 
