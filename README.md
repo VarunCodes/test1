@@ -1,13 +1,13 @@
 # Portoflio
 
-[Portfolio](#portfolio) | [Experience](#education) | [Skills](#skills)
+[Header](#header) | [Education](#education) | [Skills](#skills)
 ___
 
 <p align="center">
   <b>Contents:</b><br>
   <a href="#portfolio">[Portfolio]</a> |
   <a href="#education">[Experience]</a> |
-  <a href="#skills">[Skills]</a>()
+  <a href="#skills">[Skills]</a>
   <br><br>
 </p>
 
@@ -50,7 +50,11 @@ ___
 
 Makers Academy (November 2017 - February 2018)
 
-#Skills
+Ut dignissim id felis id interdum. Quisque ante nisl, rhoncus et ante ac, egestas pellentesque nibh. Nunc porta aliquam urna et ultricies. Integer vitae leo suscipit, vulputate leo vitae, auctor erat. Nulla turpis eros, posuere non augue nec, mollis placerat sem. In hac habitasse platea dictumst. Proin leo eros, malesuada at elit et, vestibulum fringilla lectus. Vivamus sapien turpis, dignissim dictum nulla ut, scelerisque rutrum odio. Nulla non libero id mauris interdum fermentum.
+
+Ut dignissim id felis id interdum. Quisque ante nisl, rhoncus et ante ac, egestas pellentesque nibh. Nunc porta aliquam urna et ultricies. Integer vitae leo suscipit, vulputate leo vitae, auctor erat. Nulla turpis eros, posuere non augue nec, mollis placerat sem. In hac habitasse platea dictumst. Proin leo eros, malesuada at elit et, vestibulum fringilla lectus. Vivamus sapien turpis, dignissim dictum nulla ut, scelerisque rutrum odio. Nulla non libero id mauris interdum fermentum.
+
+## Skills
 
 Communication
   I have mastered the art of English
