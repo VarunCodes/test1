@@ -72,8 +72,13 @@ Hungry to learn and improve
 Awesome to work with
   Self explanatory
 
-<p align="center">[![github](https://cdn2.iconfinder.com/data/icons/black-white-social-media/32/youtube_online_social_media_tube-64.png)][1]
-</p>
+___
+[![github](https://cdn2.iconfinder.com/data/icons/black-white-social-media/32/youtube_online_social_media_tube-64.png)][1]
+[![github](https://cdn2.iconfinder.com/data/icons/black-white-social-media/32/youtube_online_social_media_tube-64.png)][2]
+[![github](https://cdn2.iconfinder.com/data/icons/black-white-social-media/32/youtube_online_social_media_tube-64.png)][3]
+___
 
 
 [1]: http://www.youtube.com
+[2]: http://www.youtube.com
+[3]: http://www.youtube.com
