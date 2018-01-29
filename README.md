@@ -3,6 +3,17 @@
 [Portfolio](#portfolio) | [Experience](#education) | [Skills](#skills)
 ___
 
+<p align="center">
+  <b>Some Links:</b><br>
+  <a href="#">Link 1</a> |
+  <a href="#">Link 2</a> |
+  <a href="#">Link 3</a>
+  <br><br>
+  <img src="http://s.4cdn.org/image/title/105.gif">
+</p>
+
+___
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam laoreet rhoncus tellus et tempus. Quisque rhoncus vestibulum ultricies. Ut id pretium risus. Nullam varius at massa vitae volutpat. Praesent gravida enim ipsum, at pretium nisl fringilla eu. Praesent augue mi, efficitur nec justo sit amet, faucibus auctor metus. Aliquam erat volutpat.
 
 In ut cursus lorem. Donec vel blandit diam. Quisque tincidunt ultrices massa ac dignissim. Morbi sodales tellus et tempus pretium. Curabitur sit amet eleifend tellus. Suspendisse potenti. Sed vel malesuada odio. Praesent non tristique velit. Duis vulputate diam sed eros dapibus, sit amet dignissim sapien suscipit. In sit amet dictum felis. Nam ut lorem mollis, pharetra ligula eu, efficitur ipsum. Donec semper tellus id sem molestie lobortis. Nunc eget hendrerit nunc.
