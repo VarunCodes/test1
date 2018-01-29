@@ -4,11 +4,11 @@
 ___
 
 <p align="center">
-
-  [Portfolio](#portfolio) |
-  [Experience](#education) |
-  [Skills](#skills)
-  <br>
+  <b>Contents:</b><br>
+  <a>[Portfolio](#portfolio)</a> |
+  <a href="#education">[Experience]</a> |
+  <a>[Skills]</a>(#skills)
+  <br><br>
 </p>
 
 ___
