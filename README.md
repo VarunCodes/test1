@@ -4,10 +4,10 @@
 ___
 
 <p align="center">
-  <b>Contents:</b><br>
-  <a href="#portfolio">[Portfolio]</a> |
-  <a href="#education">[Experience]</a> |
-  <a href="#skills">[Skills]</a>
+  <a href="#portfolio">Portfolio</a> |
+  <a href="#education">Experience</a> |
+  <a href="#skills">Skills</a>
+  <a href="#contact">Contact</a>
   <br><br>
 </p>
 
@@ -73,12 +73,12 @@ Awesome to work with
   Self explanatory
 
 ___
-[![github](https://cdn2.iconfinder.com/data/icons/black-white-social-media/32/youtube_online_social_media_tube-64.png)][1]
+[![github](https://raw.githubusercontent.com/VarunCodes/CV/master/icons/if_linked_in_online_social_media_734393.png)][1]
 [![github](https://cdn2.iconfinder.com/data/icons/black-white-social-media/32/youtube_online_social_media_tube-64.png)][2]
 [![github](https://cdn2.iconfinder.com/data/icons/black-white-social-media/32/youtube_online_social_media_tube-64.png)][3]
 ___
 
 
-[1]: http://www.youtube.com
+[1]: http://www.linkedin.com
 [2]: http://www.youtube.com
 [3]: http://www.youtube.com
