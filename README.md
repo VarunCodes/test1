@@ -73,9 +73,11 @@ Awesome to work with
   Self explanatory
 
 ___
+<p align="center">
 [![github](https://raw.githubusercontent.com/VarunCodes/CV/master/icons/if_linked_in_online_social_media_734393.png)][1]
 [![github](https://cdn2.iconfinder.com/data/icons/black-white-social-media/32/youtube_online_social_media_tube-64.png)][2]
 [![github](https://cdn2.iconfinder.com/data/icons/black-white-social-media/32/youtube_online_social_media_tube-64.png)][3]
+</p>
 ___
 
 
