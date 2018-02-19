@@ -1,4 +1,4 @@
-# Portoflio
+<p align="center"> # Varun Madhukara </p>
 
 [Header](#header) | [Education](#education) | [Skills](#skills)
 ___
